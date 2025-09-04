@@ -1,0 +1,28 @@
+.create-account {
+  margin-bottom: 30px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.create-account input {
+  padding: 8px;
+  margin-right: 10px;
+  width: 200px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.create-account button {
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.create-account button:hover {
+  background-color: #45a049;
+}
